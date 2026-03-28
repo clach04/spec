@@ -2,6 +2,8 @@
 
 > Global standardization for Dracula Theme's syntax highlighting across the host of implementations.
 
+NOTE: This is now maintained in https://github.com/dracula/draculatheme.com/blob/main/content/spec.mdx
+
 ## Team
 
 This spec is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/spec/graphs/contributors).
